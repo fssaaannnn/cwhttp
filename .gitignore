@@ -1,0 +1,15 @@
+
+.DS_Store
+Thumbs.db
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# IDE
+/.idea/workspace.xml
+/.idea/modules.xml
+/.idea/tasks.xml
+/.idea/misc.xml
+/.idea/libraries
+*.iml
+cmake-build-debug
